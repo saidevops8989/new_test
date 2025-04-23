@@ -1,4 +1,4 @@
-name: Hello World
+name: selfhosted
 'on': workflow_dispatch
 jobs:
   hello-job:
